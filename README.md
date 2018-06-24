@@ -1,4 +1,6 @@
 Built using Stephen Course on Udemy
+![capture](https://user-images.githubusercontent.com/29175156/41817678-e85cfc58-776d-11e8-96c6-f2ab0aac496e.PNG)
+
 
 # ReduxSimpleStarter
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
